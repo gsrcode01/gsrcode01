@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on: Improving my DSA skills and building projects <br>👯 I’m looking to collaborate on: Beginner-friendly DSA problems, projects, or anything that helps me grow as a developer.<br>🌱 I’m currently learning:Data Structures & Algorithms, Java, and full-stack basics through the cohort.<br>⚡ Fun fact: I genuinely enjoy coding and constantly push myself to learn harder things — even if it hurts my brain sometimes 😄
+🔭 I’m currently working on: Improving my DSA skills and building projects <br>👯 I’m looking to collaborate on: Beginner-friendly DSA problems, projects, or anything that helps me grow as a developer.<br>🌱 I’m currently learning:Data Structures & Algorithms, Java, and full-stack basics through the cohort.<br>⚡ Fun fact: I genuinely enjoy coding and constantly push myself to learn harder things — even if it hurts my brain sometimes 
 
 ## 🌐 Socials:
 
